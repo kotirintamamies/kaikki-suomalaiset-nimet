@@ -1,0 +1,30 @@
+{
+  "name": "kaikki-suomalaiset-nimet",
+  "version": "1.0.0",
+  "description": "Kaikki suomalaiset nimet -botti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotirintamamies/kaikki-suomalaiset-nimet.git"
+  },
+  "keywords": [
+    "nimet",
+    "botti",
+    "twitter",
+    "suomi",
+    "suomalaiset",
+    "nimet"
+  ],
+  "author": "Sebastian Laitila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotirintamamies/kaikki-suomalaiset-nimet/issues"
+  },
+  "homepage": "https://github.com/kotirintamamies/kaikki-suomalaiset-nimet#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
